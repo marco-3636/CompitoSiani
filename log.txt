@@ -1,0 +1,103 @@
+commit 60f34f4c993fc26ec684e3056b3ae797e6636334
+Merge: 750ede4 0580e66
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:32:34 2019 +0200
+
+    Fusione ramo Home
+
+commit 750ede473154be42be9c6d9f2efad9657fa7c2f2
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:28:22 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/Style.css b/css/Style.css
+index e69de29..3db6ee3 100644
+--- a/css/Style.css
++++ b/css/Style.css
+@@ -0,0 +1 @@
++body {background-color: blue;}
+\ No newline at end of file
+
+commit 0580e66461a97ecec1b8a2dd1ae9de464f4665ca
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:26:23 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/Style.css b/css/Style.css
+index e69de29..3bbb1bd 100644
+--- a/css/Style.css
++++ b/css/Style.css
+@@ -0,0 +1 @@
++body {background-color: red;}
+\ No newline at end of file
+
+commit bb07c70c75906f72615efd1a1cceb4372c8eb040
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:24:21 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/ImmagineHome.PNG b/img/ImmagineHome.PNG
+new file mode 100644
+index 0000000..d6b8e0c
+Binary files /dev/null and b/img/ImmagineHome.PNG differ
+
+commit 10ab103d3eac72228df6593f87ac1d63d461e658
+Merge: d6a3070 4c345ec
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:22:11 2019 +0200
+
+    Fusione Ramo Contatti
+
+commit 4c345ecbd77aa437aef3106efaeda3a93ee982b3
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:15:55 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 733e9bd5903a6ca2a04b086682f1b72e031b517a
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:14:45 2019 +0200
+
+    Creata Pagina Contatti
+
+diff --git a/Contatti.htm b/Contatti.htm
+new file mode 100644
+index 0000000..e69de29
+
+commit 478daa21c6ccf579efd3dd295f7f481d12aaa41e
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:13:28 2019 +0200
+
+    Inserita Immagine
+
+diff --git a/img/ImmagineCompito.PNG b/img/ImmagineCompito.PNG
+new file mode 100644
+index 0000000..de8b11f
+Binary files /dev/null and b/img/ImmagineCompito.PNG differ
+
+commit d6a3070adb49d15a383a01c952be060e872031ad
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:10:53 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.htm b/home.htm
+new file mode 100644
+index 0000000..e69de29
+
+commit 2e0ca7247783197ab19b38dfe7ac5af8197ea1e4
+Author: marco-3636 <marcosiani01@gmail.com>
+Date:   Sat Apr 13 11:05:21 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/Style.css b/css/Style.css
+new file mode 100644
+index 0000000..e69de29
